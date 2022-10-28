@@ -1,0 +1,4 @@
+body{ background-color: burlywood;}
+h1{ text-align: center;}
+span:hover{ color: black;}
+#corp::selection{ color:white; background-color: blue;}
